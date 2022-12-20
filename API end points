@@ -1,0 +1,6 @@
+- Create Questions: localhost:8000/question/create
+- Delete Questions: localhost:8000/question/:id/delete
+- Add Options To The Questions: localhost:8000/question/:id/options/create
+- View Questions Along With Its Options: localhost:8000/question/:id
+- Upvote Option : localhost:8000/option/:id/add_vote
+- Delete Option : localhost:8000/option/:id/delete
